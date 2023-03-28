@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+   <test name="TestNG-Report" >
+       <classes> 
+          <class name="FirstScript.TestNGExample" />
+       </classes>
+   </test>
+ </suite>
